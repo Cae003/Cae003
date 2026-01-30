@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Oracle](https://img.shields.io/badge/Oracle-SQL-red)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Data-yellow)
-![GameDev](https://img.shields.io/badge/Game%20Dev-Em%20Aprendizado-purple)
+<!--![GameDev](https://img.shields.io/badge/Game%20Dev-Em%20Aprendizado-purple)-->
 
 🎯 Estudante e estagiário de TI, com foco em análise de dados, automação e soluções inteligentes.
 
@@ -55,7 +55,7 @@ Atualmente estudando:
 - Arquitetura de dados
 
 ---
-
+<!--
 ## 📫 Contato
 
 - 💼 LinkedIn: (seu link)
@@ -63,7 +63,7 @@ Atualmente estudando:
 - 🌐 GitHub: github.com/seuusuario
 
 ---
-
+-->
 ⭐ Fique à vontade para explorar meus repositórios!
 
 
