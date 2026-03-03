@@ -17,13 +17,20 @@ Atualmente atuo com desenvolvimento em Python, integração com banco de dados O
 - 🐍 Desenvolvedor Python
 - 👾 Aspirante a desenvolvedor de games, estudando programação e lógica aplicada a jogos
 - 📚 Sempre buscando aprender novas tecnologias
-<!--
 - 📊 Atualmente mais focado em:
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
--->
+<div style="display: flex; gap: 140px; align-items: center;">
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
+</div>
+
 ---
 
+<!--
 ## 🛠️ Tecnologias e Ferramentas
 
 - Python (Automação, Análise de Dados, IA)
@@ -33,7 +40,8 @@ Atualmente atuo com desenvolvimento em Python, integração com banco de dados O
 - Git / GitHub
 - Pandas / FAISS / ETL
 
----
+-->
+
 <!--
 ## 📂 Projetos em Destaque
 
@@ -53,17 +61,17 @@ Atualmente estudando:
 - Engenharia de Dados
 - Power BI Avançado
 - Arquitetura de dados
+- Engine GameMaker Studio (GML e desenvolvimento de jogos 2D)
 
 ---
-<!--
-## 📫 Contato
 
+## 📫 Você também me encontra em:
+<a href="www.linkedin.com/in/caetano-josé-b451b5325"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - 💼 LinkedIn: (seu link)
 - 📧 Email: (seu email)
 - 🌐 GitHub: github.com/seuusuario
 
 ---
--->
 ⭐ Fique à vontade para explorar meus repositórios!
 
 
