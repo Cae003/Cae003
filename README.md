@@ -42,17 +42,13 @@ Atualmente atuo com desenvolvimento em Python, integração com banco de dados O
 
 -->
 
-<!--
 ## 📂 Projetos em Destaque
 
 🔹 [📁 Automação de Análise de PDFs](link-do-repo)  
-🔹 [📁 Pipeline com FAISS + LLM](link-do-repo)  
-🔹 [📁 Dashboards Power BI](link-do-repo)
 
 > Em constante atualização 🚧
 
 ---
--->
 
 ## 📈 Em Aprendizado
 
@@ -66,10 +62,9 @@ Atualmente estudando:
 ---
 
 ## 📫 Você também me encontra em:
-<a href="www.linkedin.com/in/caetano-josé-b451b5325"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- 💼 LinkedIn: (seu link)
-- 📧 Email: (seu email)
-- 🌐 GitHub: github.com/seuusuario
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caetano-josé-b451b5325)
+[![Email](https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caetanojab146@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caetano.j003?igsh=MTB0ZXN4czJyMDQ3NA==)
 
 ---
 ⭐ Fique à vontade para explorar meus repositórios!
