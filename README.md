@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Caetano Bastos!
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Oracle](https://img.shields.io/badge/Oracle-SQL-red)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Data-yellow)
 <!--![GameDev](https://img.shields.io/badge/Game%20Dev-Em%20Aprendizado-purple)-->
