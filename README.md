@@ -47,6 +47,7 @@ Atualmente atuo com desenvolvimento em Python, integração com banco de dados O
 🔹 [📁 Automação de Análise de PDFs](link-do-repo)  
 -->
 🔹 [📁 Identivicador de Rostos IA - Harry Potter](https://github.com/Cae003/IA_HarryPotter) 
+🔹 [📁 Jogo 2D - Lobo Pidão](https://github.com/DediXt04/Projeto_Integrador_04)
 
 > Em constante atualização 🚧
 
